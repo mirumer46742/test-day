@@ -2,3 +2,4 @@ this is a test file and i am checking git changes
 
 I had changed the file once again to check the git commands
 i am changing it third time to check for branching in GIT
+and i am trying to edit it in VIM Editor
